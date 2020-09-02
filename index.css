@@ -1,0 +1,40 @@
+
+body
+{
+margin: 0px;
+padding: 0px;
+}
+.outer-box
+{
+   background-color: black;  
+   height: 650px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+}
+.middle-box
+{
+    background-color: rgb(62, 106, 187);
+    height: 600px;
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.upper-box
+{   color: brown;
+    height: 200px;
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.mid-box
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
